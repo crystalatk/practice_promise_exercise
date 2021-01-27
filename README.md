@@ -1,3 +1,3 @@
 # Practice: Creating promises...
 
-In this repo, I practice creating and using promises. I explore what they do and how I can completely mess them up:) 
+In this repo, I will practice creating and using promises. I plan to use a simple stopwatch exercise to accomplish this.
